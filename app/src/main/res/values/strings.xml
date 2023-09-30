@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GreetX</string>
+    <string name="text">express your feelings...</string>
+    <string name="title">Title 1</string>
+    <string name="head">See All</string>
+    <string name="move">next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bold">By signing in you agree to our \n Terms of use  and Privacy Policy</string>
+</resources>
